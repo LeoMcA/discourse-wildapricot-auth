@@ -66,8 +66,8 @@ end
 
 auth_provider :title => 'with Wild Apricot',
   :message => 'Authentication with Wild Apricot (make sure pop up blockers are not enabled)',
-  :frame_width => 660,
-  :frame_height => 650,
+  :frame_width => 840,
+  :frame_height => 570,
   :authenticator => WildApricotAuthenticator.new('wildapricot', trusted: true)
 
 register_css <<CSS
