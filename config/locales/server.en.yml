@@ -1,0 +1,6 @@
+en:
+  site_settings:
+    wildapricot_server: 'Wild Apricot server url'
+    wildapricot_client_id: 'Wild Apricot OAuth2 client id'
+    wildapricot_client_secret: 'Wild Apricot OAuth2 client secret'
+    wildapricot_account_id: 'Wild Apricot account id'

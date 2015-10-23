@@ -1,0 +1,13 @@
+plugins:
+  wildapricot_server:
+    default: ''
+    shadowed_by_global: true
+  wildapricot_client_id:
+    default: ''
+    shadowed_by_global: true
+  wildapricot_client_secret:
+    default: ''
+    shadowed_by_global: true
+  wildapricot_account_id:
+    default: ''
+    shadowed_by_global: true
